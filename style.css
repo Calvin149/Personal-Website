@@ -56,3 +56,24 @@ body {
 .bg-brevisdblue {
   background-color: #384359;
 }
+
+.mediumtext {
+  font-size: 1.2rem;
+}
+
+.whitelink{
+  color: white;
+}
+
+.whitelink:hover {
+  color: #999999;
+}
+
+.blacklink{
+  color: black;
+}
+
+.blacklink:hover {
+  color: #585858;
+}
+
